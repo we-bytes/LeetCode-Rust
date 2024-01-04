@@ -9,6 +9,8 @@ Solutions to LeetCode by Rust EveryDay
 ```rust
 pub struct Solution {}
 
+
+
 #[cfg(test)]
 mod tests {
     use super::*;

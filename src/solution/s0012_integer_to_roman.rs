@@ -39,7 +39,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_1() {
+    fn test_s0012() {
         assert_eq!(Solution::int_to_roman(3), "III");
         assert_eq!(Solution::int_to_roman(4), "IV");
         assert_eq!(Solution::int_to_roman(9), "IX");

@@ -29,7 +29,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_1() {
+    fn test_s0010() {
         assert_eq!(
             Solution::is_match("aa".to_string(), "a".to_string(),),
             false

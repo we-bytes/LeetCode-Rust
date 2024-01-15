@@ -11,7 +11,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_1() {
+    fn test_s0009() {
         assert_eq!(Solution::is_palindrome(-32), false);
         assert_eq!(Solution::is_palindrome(10), false);
         assert_eq!(Solution::is_palindrome(0), true);

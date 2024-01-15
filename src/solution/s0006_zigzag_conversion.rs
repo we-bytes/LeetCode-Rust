@@ -18,7 +18,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_1() {
+    fn test_s0006() {
         assert_eq!(
             Solution::convert("PAYPALISHIRING".to_string(), 4),
             "PINALSIGYAHRPI"

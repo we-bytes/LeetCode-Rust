@@ -22,7 +22,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_1() {
+    fn test_s0011() {
         assert_eq!(Solution::max_area(vec![1, 8, 6, 2, 5, 4, 8, 3, 7]), 49);
         assert_eq!(Solution::max_area(vec![6, 9]), 6);
         assert_eq!(Solution::max_area(vec![1, 1, 2, 1, 1, 1]), 5);

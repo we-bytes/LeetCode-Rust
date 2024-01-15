@@ -45,7 +45,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_1() {
+    fn test_s0013() {
         assert_eq!(Solution::roman_to_int("III".to_string()), 3);
         assert_eq!(Solution::roman_to_int("IV".to_string()), 4);
         assert_eq!(Solution::roman_to_int("IX".to_string()), 9);

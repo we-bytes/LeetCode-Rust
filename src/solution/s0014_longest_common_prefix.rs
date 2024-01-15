@@ -21,7 +21,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_1() {
+    fn test_s0014() {
         assert_eq!(
             Solution::longest_common_prefix(vec![
                 "".to_string(),

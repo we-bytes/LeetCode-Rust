@@ -19,3 +19,7 @@ mod tests {
     fn test_1() {}
 }
 ```
+
+- 返回变量: ans
+- 变量长度: n
+- HashMap: map

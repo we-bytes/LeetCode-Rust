@@ -22,4 +22,5 @@ mod tests {
 
 - 返回变量: ans
 - 变量长度: n
+- 循环变量: i, j
 - HashMap: map

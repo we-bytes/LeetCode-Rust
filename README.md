@@ -24,3 +24,4 @@ mod tests {
 - 变量长度: n
 - 循环变量: i, j
 - HashMap: map
+- 字符串转数组: let seq: Vec<char> = s.chars().collect();

@@ -1,0 +1,20 @@
+{
+	"LeetCode Rust Template": {
+		"scope": "rust",
+		"prefix": "leetcode",
+		"body": [
+			"pub struct Solution {}",
+			"",	
+			"$1",
+			"",
+			"#[cfg(test)]",
+			"mod tests {",
+			"	use super::*;",
+			"",
+			"	#[test]",
+			"	fn test_s00() {}",
+			"}",
+		],
+		"description": "leetcode rust template"
+	}
+}

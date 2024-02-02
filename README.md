@@ -22,6 +22,7 @@ mod tests {
 
 - 返回变量: ans
 - 变量长度: n
+- 左右变量: l r
 - 循环变量: i, j
 - HashMap: map
 - 字符串转数组: let seq: Vec<char> = s.chars().collect();
